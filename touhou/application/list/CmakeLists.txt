@@ -1,0 +1,4 @@
+add_subdirectory(vao)
+add_subdirectory(ebo)
+add_subdirectory(vbo)
+add_subdirectory(uv)
