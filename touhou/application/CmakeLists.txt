@@ -1,0 +1,4 @@
+add_subdirectory(shader)
+add_subdirectory(list)
+add_subdirectory(texture)
+add_subdirectory(media)
